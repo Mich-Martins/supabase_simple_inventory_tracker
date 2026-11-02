@@ -1,2 +1,0 @@
-project: simple_inventory_tracker
-pw: CDc@reTr@ck11
